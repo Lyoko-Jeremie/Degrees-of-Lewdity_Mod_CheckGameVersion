@@ -1,0 +1,28 @@
+{
+  "name": "CheckGameVersion",
+  "version": "2.2.0",
+  "styleFileList": [
+  ],
+  "scriptFileList_earlyload": [
+  ],
+  "scriptFileList_inject_early": [
+    "dist/CheckGameVersion.mod.js"
+  ],
+  "scriptFileList_preload": [
+  ],
+  "scriptFileList": [
+  ],
+  "tweeFileList": [
+  ],
+  "imgFileList": [
+  ],
+  "additionFile": [
+    "README.md"
+  ],
+  "dependenceInfo": [
+    {
+      "modName": "ModLoader",
+      "version": "^1.5.3"
+    }
+  ]
+}
