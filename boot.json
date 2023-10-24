@@ -1,6 +1,6 @@
 {
   "name": "CheckGameVersion",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "styleFileList": [
   ],
   "scriptFileList_earlyload": [
@@ -22,7 +22,7 @@
   "dependenceInfo": [
     {
       "modName": "ModLoader",
-      "version": "^1.5.3"
+      "version": "^1.5.3||^2.0.0"
     }
   ]
 }
